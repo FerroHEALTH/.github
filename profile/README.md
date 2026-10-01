@@ -14,6 +14,7 @@ Pure-Rust health-data servers built on open standards.
 [FerroCHART](https://ferrochart.eu) ·
 [FerroEHR](https://ferroehr.eu) ·
 [FerroTERM](https://ferroterm.eu) ·
-[FerroBRIDGE](https://ferrobridge.eu)
+[FerroBRIDGE](https://ferrobridge.eu) ·
+[FerroFED](https://ferrofed.eu)
 
 </div>
