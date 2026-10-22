@@ -9,12 +9,28 @@
   <br>
   <br>
 
-Pure-Rust health-data servers built on open standards.
+**Pure-Rust health-data servers built on open standards.**
 
-[FerroCHART](https://ferrochart.eu) ·
-[FerroEHR](https://ferroehr.eu) ·
-[FerroTERM](https://ferroterm.eu) ·
-[FerroBRIDGE](https://ferrobridge.eu) ·
-[FerroFED](https://ferrofed.eu)
+openEHR, HL7 FHIR, SNOMED CT, OMOP and IHE, in small servers with no JVM.<br>
+Each one runs on its own and works with the others.
+
+| Server | What it does |
+|---|---|
+| [**FerroEHR**](https://ferroehr.eu) | openEHR clinical data repository |
+| [**FerroTERM**](https://ferroterm.eu) | FHIR terminology server for SNOMED CT |
+| [**FerroBRIDGE**](https://ferrobridge.eu) | openEHR to HL7 FHIR and OMOP |
+| [**FerroFED**](https://ferrofed.eu) | openEHR federation gateway |
+| [**FerroPIX**](https://ferropix.eu) | Master patient index over IHE PIX and PDQ |
+
+**Shared by every server**<br>
+[FerroUI](https://github.com/FerroHEALTH/FerroUI) console components ·
+[FerroSMART](https://ferrosmart.eu) SMART and OAuth 2.0 ·
+[FerroAUDIT](https://github.com/FerroHEALTH/FerroAUDIT) IHE audit
+
+**Planned**<br>
+[FerroSYS](https://ferrosys.eu) control plane ·
+[FerroTASK](https://ferrotask.eu) task planning and decision support
+
+<sub>[ferrohealth.eu](https://ferrohealth.eu) · made by [Cadasto B.V.](https://www.cadasto.com)</sub>
 
 </div>
