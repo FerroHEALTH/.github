@@ -24,12 +24,8 @@ Each one runs on its own and works with the others.
 
 **Shared by every server**<br>
 [FerroUI](https://github.com/FerroHEALTH/FerroUI) console components ·
-[FerroSMART](https://ferrosmart.eu) SMART and OAuth 2.0 ·
-[FerroAUDIT](https://github.com/FerroHEALTH/FerroAUDIT) IHE audit
-
-**Planned**<br>
-[FerroSYS](https://ferrosys.eu) control plane ·
-[FerroTASK](https://ferrotask.eu) task planning and decision support
+[FerroAUTH](https://github.com/FerroHEALTH/FerroAUTH) sign-in, SMART and access policy ·
+[FerroAUDIT](https://github.com/FerroHEALTH/FerroAUDIT) IHE audit trail
 
 <sub>[ferrohealth.eu](https://ferrohealth.eu) · made by [Cadasto B.V.](https://www.cadasto.com)</sub>
 
