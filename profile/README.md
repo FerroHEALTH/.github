@@ -21,10 +21,10 @@ Each one runs on its own and works with the others.
 | [**FerroBRIDGE**](https://ferrobridge.eu) | openEHR to HL7 FHIR and OMOP |
 | [**FerroFED**](https://ferrofed.eu) | openEHR federation gateway |
 | [**FerroPIX**](https://ferropix.eu) | Master patient index over IHE PIX and PDQ |
+| [**FerroSMART**](https://github.com/FerroHEALTH/FerroSMART) | SMART App Launch authorization server, being built |
 
 **Shared by every server**<br>
 [FerroUI](https://github.com/FerroHEALTH/FerroUI) console components ·
-[FerroAUTH](https://github.com/FerroHEALTH/FerroAUTH) sign-in, SMART and access policy ·
 [FerroAUDIT](https://github.com/FerroHEALTH/FerroAUDIT) IHE audit trail
 
 <sub>[ferrohealth.eu](https://ferrohealth.eu) · made by [Cadasto B.V.](https://www.cadasto.com)</sub>
